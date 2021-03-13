@@ -1,1 +1,0 @@
-# Flask application to display model
